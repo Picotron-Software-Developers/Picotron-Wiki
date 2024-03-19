@@ -1,0 +1,33 @@
+{
+	"metadata" : {
+		"page_title" : "Testing page",
+		"version" : "0.1"
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "hello world!"
+		},
+		{
+			"type" : "snippet",
+			"text" : "print(\"hello wiki!\")\n--this page is generated from a file!"
+		},
+		{
+			"type" : "label",
+			"text" : "this is some more text."
+		},
+		{
+			"type" : "label",
+			"text" : "label spacing test"
+		},
+		{
+			"type" : "dir_ref",
+			"ref" : "/ram/cart",
+			"text" : "/ram/cart/main.lua"
+		},
+		{
+			"type" : "snippet",
+			"text" : "local test = 200"
+		}
+	]
+}

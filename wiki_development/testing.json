@@ -31,7 +31,8 @@
 		},
 		{
 			"type" : "wiki_ref",
-			"target" : "landing"
+			"ref" : "landing",
+			"text" : "Go to landing page"
 		}
 	]
 }

@@ -1,0 +1,26 @@
+--[[pod_format="raw",created="2024-03-19 20:30:36",modified="2024-03-20 11:56:33",revision=46]]
+{
+	"metadata" : {
+		"page_title" : "spr()",
+		"version" : "0.1"
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "The spr() function draws a sprite\n(either from userdata,\nor from an index in the gfx editor)"
+		},
+		{
+			"type" : "snippet",
+			"text" : "spr(1,30,12,true,false)\n--this draws sprite indexed at 1 on x=30\n--and y=12, and flipped horizontally."
+		},
+		{
+			"type" : "label",
+			"text" : "\nspr() has 5 arguments:\n  n - the index for a sprite (or\n    a variable with 2d userdata),\n  x - the x of where the sprite's upper left\n    corner will be,\n  y - the y of where the sprite's upper left\n    corner will be,\n  flph (bool) - if true, the sprite will be\n    flipped horizontally,\n  flpv (bool) - if true, the sprite will be\n    flipped vertically"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "landing",
+			"text" : "Go to landing page"
+		}
+	]
+}

@@ -28,6 +28,10 @@
 		{
 			"type" : "snippet",
 			"text" : "local test = 200"
+		},
+		{
+			"type" : "wiki_ref",
+			"target" : "landing"
 		}
 	]
 }

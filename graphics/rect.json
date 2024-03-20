@@ -1,0 +1,20 @@
+{
+	"metadata" : {
+		"page_title" : "rect()",
+		"version" : "0.1"
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "The rect function draws an empty rectangle.\n\nExample usage:"
+		},
+		{
+			"type" : "snippet",
+			"text" : "--draws a red rectangle.\nrect(16,16,64,64,8)"
+		},
+		{
+			"type" : "label",
+			"text" : "\nrect() has 5 arguments:\n  x0 - top left x coordinate of rectangle\n  y0 - top left y coordinate of rectangle\n  x1 - bottom right x coordinate of rectangle\n  y1 - bottom right y coordinate of rectangle\n  col - the color of the rectangle"
+		}
+	]
+}

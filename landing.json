@@ -4,5 +4,27 @@
 		"version" : "0.1"
 	},
 	"elements" : [
+		{
+			"type" : "label",
+			"text" : "Hello, welcome to the Picotron Wiki!\nThis is a very barebones version and will be\nupdated as time goes on.\n\f9(You can get back to this page in the APP MENU)\f7\n\nFor now, here's our current documentation pages:"
+		},
+		{
+			"type" : "label",
+			"text" : "\nWiki Development:"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "wiki_development/testing",
+			"text" : "wiki page testing"
+		},
+		{
+			"type" : "label",
+			"text" : "\nGraphics:"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "graphics/rect",
+			"text" : "rect()"
+		}
 	]
 }

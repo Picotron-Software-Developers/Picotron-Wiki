@@ -1,0 +1,17 @@
+{
+	"metadata" : {
+		"page_title" : "menuitem",
+		"version" : "0.1"
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "menuitem creates an item in the menu."
+		},
+		{
+			"type" : "snippet",
+			            "text": "menuitem{\nid = 3,-- unique identifier. integer ids are used to sort items (otherwise in order added)\nlabel = 'Foo', -- user-facing label\nshortcut = 'CTRL-O',      -- drawn right justified in menu\ngreyed = false,           -- greyed out item (use for ---)\naction = function(b) end  -- callback on select -- b is the button pressed (left / right)}"
+
+		}
+	]
+}

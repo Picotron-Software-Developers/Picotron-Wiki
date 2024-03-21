@@ -15,7 +15,11 @@
 		},
 		{
 			"type" : "label",
-			"text" : "id : used to identify menu items. Does not \ncurrently affect menu item order.\nlabel : The label on the menu item.\nshortcut : the shortcut to press this option.\nDrawn right justified in the menu.\naction : the function to call when the menu item \nis pressed"
+			"text" : "id"
+		},
+		{
+			"type" : "label",
+			"text" : "used to identify menu items. Does not \ncurrently affect menu item order.\nlabel : The label on the menu item.\nshortcut : the shortcut to press this option.\nDrawn right justified in the menu.\naction : the function to call when the menu item \nis pressed"
 		}
 	]
 }

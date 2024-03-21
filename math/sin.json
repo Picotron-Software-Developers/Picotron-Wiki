@@ -12,7 +12,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "From a given angle, the sin() function returns\nthe inverted value of what a classical sine\nfunction would give. The angle is in the range\nof 0.0-1.0 measured counter-clockwize.\n(0.0 being to the right)"
+			"text" : "From a given angle, the sin() function returns\nthe inverted value of what a classical sine\nfunction would give. Angles in picotron are messured as a\nrange of 0.0-1.0 counter-clockwize around a unit\ncircle.  (0.0 being to the right)"
 		},
 		{
 			"type" : "label",

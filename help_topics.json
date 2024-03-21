@@ -1,0 +1,35 @@
+{
+	"metadata" : {
+		"page_title" : "Help topics",
+		"version" : "0.1",
+		"authors" : [
+			"scrapSavage"
+		]
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "Here are our current help topics:"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "topics/getting_started",
+			"text" : "Getting started"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "topics/graphics",
+			"text" : "Graphics"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "topics/math",
+			"text" : "Math"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "topics/applications",
+			"text" : "Applications"
+		}
+	]
+}

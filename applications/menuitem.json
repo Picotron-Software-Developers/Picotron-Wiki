@@ -10,7 +10,7 @@
 		},
 		{
 			"type" : "snippet",
-			            "text": "menuitem{\n  id = 3,\n  label = \"Foo\",\n  shortcut = \"CTRL-O\",\n  greyed = false,\n  action = function(b) end\n}"
+			            "text": "menuitem{\n  id = 3,\n  label = \"Foo\",\n  shortcut = \"CTRL-O\",\n  action = function(b) end\n}"
 
 		},
 		{

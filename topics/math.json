@@ -15,7 +15,7 @@
 			"type" : "wiki_ref",
 			"ref" : "math/cos",
 			"text" : "cos()"
-		}
+		},
 		{
 			"type" : "wiki_ref",
 			"ref" : "math/sin",

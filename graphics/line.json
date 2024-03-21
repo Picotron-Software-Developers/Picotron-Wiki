@@ -2,7 +2,8 @@
 {
 	"metadata" : {
 		"page_title" : "line()",
-		"version" : "0.1"
+		"version" : "0.2",
+		"author" : "kravohi"
 	},
 	"elements" : [
 		{

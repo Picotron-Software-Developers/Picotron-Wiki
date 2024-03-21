@@ -23,6 +23,11 @@
 		},
 		{
 			"type" : "wiki_ref",
+			"ref" : "graphics/line",
+			"text" : "line()"
+		},
+		{
+			"type" : "wiki_ref",
 			"ref" : "graphics/rect",
 			"text" : "rect()"
 		},

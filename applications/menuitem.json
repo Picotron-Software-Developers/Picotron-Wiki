@@ -6,7 +6,7 @@
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "menuitem creates an item in the hamburger menu \nbetween the 'about' button and the 'Close window' button."
+			"text" : "menuitem creates an item in the hamburger menu \nbetween the 'about' button and the 'Close window'\nbutton."
 		},
 		{
 			"type" : "snippet",
@@ -15,7 +15,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "id : used to identify menu items. Does not currently affect menu item order.\nlabel : The label on the menu item.\nshortcut : the shortcut to press this option. Drawn right justified in the menu.\naction : the function to call when the menu item is pressed"
+			"text" : "id : used to identify menu items. Does not \ncurrently affect menu item order.\nlabel : The label on the menu item.\nshortcut : the shortcut to press this option.\nDrawn right justified in the menu.\naction : the function to call when the menu item \nis pressed"
 		}
 	]
 }

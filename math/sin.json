@@ -8,7 +8,7 @@
 	"elements" : [
         {
 			"type" : "snippet",
-			"text" : "sin(x -- angle)"
+			"text" : "sin(\n  x -- angle\n)"
 		},
 		{
 			"type" : "label",

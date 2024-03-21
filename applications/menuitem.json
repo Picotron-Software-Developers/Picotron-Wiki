@@ -12,14 +12,10 @@
 			"type" : "snippet",
 			            "text": "menuitem{\n  id = 3,\n  label = \"Foo\",\n  shortcut = \"CTRL-O\",\n  action = function() notify(\"menu item pressed\") end\n}"
 
-		},
+		}
 		{
 			"type" : "label",
-			"text" : "id"
-		},
-		{
-			"type" : "label",
-			"text" : "used to identify menu items. Does not \ncurrently affect menu item order.\nlabel : The label on the menu item.\nshortcut : the shortcut to press this option.\nDrawn right justified in the menu.\naction : the function to call when the menu item \nis pressed"
+			"text" : "id\n  used to identify menu items. Does not \n  currently affect menu item order.\nlabel\n  The label on the menu item.\nshortcut\n  The shortcut to press this option.\n  Drawn right justified in the menu.\naction\n  the function to call when the menu item \n  is pressed."
 		}
 	]
 }

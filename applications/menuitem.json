@@ -6,12 +6,16 @@
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "menuitem creates an item in the menu."
+			"text" : "menuitem creates an item in the hamburger menu between the 'about' button and the 'Close window' button."
 		},
 		{
 			"type" : "snippet",
-			            "text": "menuitem{\n  id = 3,-- unique identifier. integer ids are used to sort items (otherwise in order added)\n  label = 'Foo', -- user-facing label\n  shortcut = 'CTRL-O',      -- drawn right justified in menu\n  greyed = false,           -- greyed out item (use for ---)\n  action = function(b) end  -- callback on select -- b is the button pressed (left / right)}\n}"
+			            "text": "menuitem{\n  id = 3,\n  label = \"Foo\", -- user-facing label\n  shortcut = \"CTRL-O\",      -- drawn right justified in menu\n  greyed = false,           -- greyed out item (use for ---)\n  action = function(b) end  -- callback on select -- b is the button pressed (left / right)}\n}"
 
+		},
+		{
+			"type" : "label",
+			"text" : "'id'"
 		}
 	]
 }

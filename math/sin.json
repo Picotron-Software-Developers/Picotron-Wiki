@@ -1,0 +1,31 @@
+--[[pod_format="raw",created="2024-03-19 20:30:36",modified="2024-03-20 11:56:33",revision=46]]
+{
+	"metadata" : {
+		"page_title" : "sin()",
+		"version" : "0.2",
+		"authors" : "kravohi"
+	},
+	"elements" : [
+        {
+			"type" : "snippet",
+			"text" : "sin(x -- angle)"
+		},
+		{
+			"type" : "label",
+			"text" : "From a given angle, the sin() function returns\nthe inverted value of what a classical sine\nfunction would give. The angle is in the range\nof 0.0-1.0 measured counter-clockwize.\n(0.0 being to the right)"
+		},
+		{
+			"type" : "label",
+			"text" : "sin(0.0)   = 0.0\nsin(0.125) = -0.7071...\nsin(0.25)  = -1.0\nsin(0.375) = -0.7071...\nsin(0.5)   = 0.0\nsin(0.625) = 0.7071...\nsin(0.75)  = 1.0\nsin(0.875) = 0.7071..."
+		},
+        {
+			"type" : "label",
+			"text" : "The invertion of the classical sine is usefull\nsince picotron uses inverted screen coordinates.\n(0, 0) being the top left.\n(480, 270) being bottom right."
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "landing",
+			"text" : "Go to landing page"
+		}
+	]
+}

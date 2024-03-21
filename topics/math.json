@@ -1,0 +1,20 @@
+{
+	"metadata" : {
+		"page_title" : "Graphics",
+		"version" : "0.2",
+		"authors" : [
+			"kravohi"
+		]
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "Here are our current documents:"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "math/sin",
+			"text" : "sin()"
+		}
+	]
+}

@@ -7,11 +7,11 @@
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "The line() function draws a colored line form\n one point to another."
+			"text" : "The line() function draws a colored line from\n one point to another."
 		},
 		{
 			"type" : "snippet",
-			"text" : "\nline(\n  x1, -- from x\n  y1, -- from y\n  x2, -- to x\n  y2, -- to y\n  c -- color index\n)"
+			"text" : "line(\n  x1, -- from x\n  y1, -- from y\n  x2, -- to x\n  y2, -- to y\n  c -- color index\n)"
 		},
 		{
 			"type" : "snippet",

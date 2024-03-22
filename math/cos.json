@@ -1,41 +1,32 @@
---[[pod_format="raw",created="2024-03-19 20:30:36",modified="2024-03-21 06:24:10",revision=48]]
-
-{
-	"metadata" : {
-		"page_title" : "cos()",
-		"version" : "0.2",
-		"authors" : "kravohi"
-	},
-	"elements" : [
-        {
-			"type" : "snippet",
-			"text" : "cos(\n  x -- angle\n)"
-		},
-		{
-			"type" : "label",
-			"text" : "The cos() function returns the cosine of a given \nangle.  Angles in picotron are messured as a\nrange of 0.0-1.0 counter-clockwize around a unit\ncircle.  (0.0 being to the right)"
-		},
-		{
-			"type" : "label",
-			"text" : "cos(0.0)   = 1.0\ncos(0.125) = 0.7071...\ncos(0.25)  = 0.0\ncos(0.375) = -0.7071...\ncos(0.5)   = -1.0\ncos(0.625) = -0.7071...\ncos(0.75)  = 0.0\ncos(0.875) = 0.7071..."
-		},
-        {
-			"type" : "label",
-			"text" : "A way to think about it ->\n  cos() returns the 'x' component of an angle\n  on a unit circle."
-		},
-        {
-			"type" : "label",
-			"text" : "SIDENOTE: unlike sin(), cos() is not inverted."
-		},
-        {
-			"type" : "wiki_ref",
-			"ref" : "topics/math",
-			"text" : "Go to Math"
-		},
-		{
-			"type" : "wiki_ref",
-			"ref" : "landing",
-			"text" : "Go to landing page"
-		}
-	]
+{
+	"metadata" : {
+		"page_title" : "cos()",
+		"version" : "0.2",
+		"authors" : [
+			"kravohi",
+			"Hessery"
+		]
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "The cos() function returns the cosine of a given\nangle. Angles in picotron are messured as a\nrange of 0.0-1.0 counter-clockwize around a unit\ncircle, 0.0 being to the right."
+		},
+		{
+			"type" : "snippet",
+			"text" : "cos(\n  x -- angle\n)"
+		},
+		{
+			"type" : "label",
+			"text" : "cos(0.0)   = 1.0\ncos(0.125) = 0.7071...\ncos(0.25)  = 0.0\ncos(0.375) = -0.7071...\ncos(0.5)   = -1.0\ncos(0.625) = -0.7071...\ncos(0.75)  = 0.0\ncos(0.875) = 0.7071..."
+		},
+		{
+			"type" : "label",
+			"text" : "A way to think about it ->\n  cos() returns the 'x' component of an angle\n  on a unit circle."
+		},
+		{
+			"type" : "label",
+			"text" : "SIDENOTE: unlike sin(), cos() is not inverted."
+		}
+	]
 }

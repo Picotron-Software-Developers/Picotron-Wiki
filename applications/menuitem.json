@@ -13,7 +13,7 @@
 		},
 		{
 			"type" : "snippet",
-		        "text": "menuitem{\n  id = 3,\n  label = \"Foo\",\n  shortcut = \"CTRL-O\",\n  action = function() notify(\"menu item pressed\") end\n}"
+		        "text": "menuitem{\n  id = 3,\n  label = \"Foo\",\n  shortcut = \"CTRL-O\",\n  action = function() notify(\"Pressed\") end\n}"
 		},
 		{
 			"type" : "label",

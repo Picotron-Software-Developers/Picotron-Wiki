@@ -2,7 +2,7 @@
 	"metadata" : {
 		"page_title" : "line()",
 		"version" : "0.2",
-		"authors" : "kravohi"
+		"authors" : "kravohi, Hessery"
 	},
 	"elements" : [
 		{
@@ -11,11 +11,11 @@
 		},
 		{
 			"type" : "snippet",
-			"text" : "line(\n  x1, -- from x\n  y1, -- from y\n  x2, -- to x\n  y2, -- to y\n  c -- color index\n)"
+			"text" : "line(0,0,20,10,8)"
 		},
 		{
-			"type" : "snippet",
-			"text" : "line(0,0,20,10,8)\n--This draws a line from the position (0, 0)\n--to the position (20, 10).\n--The line is colored red"
+			"type" : "label",
+			"text" : "This draws a line from the position (0, 0) to\nthe position (20, 10). The line is colored red.\n\nx1\n  x position of point one.\ny1\n  y position of point one.\nx2\n  x position of point two.\ny2\n  y poisition of point two.\nc\n  Colour of the line."
 		}
 	]
 }

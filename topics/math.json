@@ -1,4 +1,4 @@
---[[pod_format="raw",created="2024-03-22 17:44:22",modified="2024-03-22 18:34:40",revision=2]]
+--[[pod_format="raw",created="2024-03-22 17:44:22",modified="2024-03-22 20:49:08",revision=3]]
 {
 	"metadata" : {
 		"page_title" : "Math",
@@ -11,6 +11,11 @@
 		{
 			"type" : "label",
 			"text" : "Here are our current documents:"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "math/atan2",
+			"text" : "atan2()"
 		},
 		{
 			"type" : "wiki_ref",

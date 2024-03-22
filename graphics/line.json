@@ -1,4 +1,3 @@
---[[pod_format="raw",created="2024-03-19 20:30:36",modified="2024-03-20 11:56:33",revision=46]]
 {
 	"metadata" : {
 		"page_title" : "line()",
@@ -8,7 +7,7 @@
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "The line() function draws a colored line from\n one point to another."
+			"text" : "The line() function draws a colored line from\none point to another."
 		},
 		{
 			"type" : "snippet",
@@ -17,11 +16,6 @@
 		{
 			"type" : "snippet",
 			"text" : "line(0,0,20,10,8)\n--This draws a line from the position (0, 0)\n--to the position (20, 10).\n--The line is colored red"
-		},
-		{
-			"type" : "wiki_ref",
-			"ref" : "landing",
-			"text" : "Go to landing page"
 		}
 	]
 }

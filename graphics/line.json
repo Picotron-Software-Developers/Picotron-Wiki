@@ -2,7 +2,10 @@
 	"metadata" : {
 		"page_title" : "line()",
 		"version" : "0.2",
-		"authors" : "kravohi, Hessery"
+		"authors" : [
+			"kravohi",
+			"Hessery"
+		]
 	},
 	"elements" : [
 		{

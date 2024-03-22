@@ -6,7 +6,7 @@
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "menuitem creates an item in the hamburger menu \nbetween the 'about' button and the 'Close window'\nbutton."
+			"text" : "menuitem creates an item in the hamburger menu \nbetween the 'about' button and the 'Close \nwindow' button."
 		},
 		{
 			"type" : "snippet",

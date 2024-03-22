@@ -1,10 +1,10 @@
---[[pod_format="raw",created="2024-03-19 20:30:36",modified="2024-03-22 17:42:05",revision=50]]
+--[[pod_format="raw",created="2024-03-19 20:30:36",modified="2024-03-22 18:34:23",revision=51]]
 
 {
 	"metadata" : {
 		"page_title" : "max()",
 		"version" : "0.2",
-		"authors" : "kravohi"
+		"authors" : ["kravohi"]
 	},
 	"elements" : [
 		{

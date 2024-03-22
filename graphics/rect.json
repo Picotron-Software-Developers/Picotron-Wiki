@@ -9,7 +9,7 @@
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "The rect function draws an empty rectangle.\n\nExample usage:"
+			"text" : "The rect function draws an empty rectangle."
 		},
 		{
 			"type" : "snippet",
@@ -17,7 +17,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "\nrect() has 5 arguments:\n  x0 - top left x coordinate of rectangle\n  y0 - top left y coordinate of rectangle\n  x1 - bottom right x coordinate of rectangle\n  y1 - bottom right y coordinate of rectangle\n  col - the color of the rectangle"
+			"text" : "x0\n  Top left x coordinate of rectangle.\ny0\n  Top left y coordinate of rectangle.\nx1\n  Bottom right x coordinate of rectangle.\ny1\n  Bottom right y coordinate of rectangle\ncol\n  The color of the rectangle."
 		}
 	]
 }

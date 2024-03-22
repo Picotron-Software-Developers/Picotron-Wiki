@@ -1,3 +1,4 @@
+--[[pod_format="raw",created="2024-03-22 17:44:22",modified="2024-03-22 17:44:22",revision=0]]
 {
 	"metadata" : {
 		"page_title" : "Math",
@@ -15,6 +16,16 @@
 			"type" : "wiki_ref",
 			"ref" : "math/cos",
 			"text" : "cos()"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "math/min",
+			"text" : "max()"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "math/min",
+			"text" : "min()"
 		},
 		{
 			"type" : "wiki_ref",

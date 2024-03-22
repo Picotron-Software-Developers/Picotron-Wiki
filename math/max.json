@@ -1,0 +1,24 @@
+--[[pod_format="raw",created="2024-03-19 20:30:36",modified="2024-03-22 17:42:05",revision=50]]
+
+{
+	"metadata" : {
+		"page_title" : "max()",
+		"version" : "0.2",
+		"authors" : "kravohi"
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "Returns the largest number from its given\narguments.  The number of arguments is undifined."
+		},
+      {
+			"type" : "snippet",
+			"text" : "max(3,13,24,5,18)\n-- this returns 24"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "topics/math",
+			"text" : "Go to Math"
+		}
+	]
+}

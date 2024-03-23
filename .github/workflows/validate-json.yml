@@ -19,4 +19,5 @@ jobs:
         uses: GrantBirki/json-yaml-validate@v2.6.1
         with:
           comment: "true"
+          use_gitignore: false
   

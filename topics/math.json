@@ -32,6 +32,11 @@
 			"text" : "min()"
 		},
 		{
+			"type": "wiki_ref",
+			"ref": "math/mid",
+			"text": "mid()"
+		},
+		{
 			"type" : "wiki_ref",
 			"ref" : "math/sin",
 			"text" : "sin()"

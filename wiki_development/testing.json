@@ -1,7 +1,7 @@
 {
 	"metadata" : {
 		"page_title" : "Testing page",
-		"version" : "0.1"
+		"version" : "0.3"
 	},
 	"elements" : [
 		{
@@ -33,6 +33,26 @@
 			"type" : "wiki_ref",
 			"ref" : "landing",
 			"text" : "Go to landing page"
+		},
+		{
+			"type" : "pod_image",
+			"data" : "b64:bHo0AM8BAADhAQAAsHB4dQBDIEBABPD-AQDwHT4PFQQwDxQE8CgECQ4QBBoJBA7wDAkEDjAPFfABBAkKDgAJSg4QDgQJ0AkECADxHSoJIAQO8AEOBAoEAFoEAA46CQQOYA4EOg4ADkoOABkE8AENBAoJAFoJAA5qMQAQahoAcAQACQQN8AI1APAQBFoABHoJAASKBAAESgkACgTwAw0JEA5aAAmKAAmKCW8A8SEACg7wAw0EIFoAmgCqAFoOAAkO8AgJOgkADnoJAJoABEoEEA7wCQQJKgQADnoEAIqHAPA1DvANDgQaDhAJag4ACXoOAA4qBA7wCg0QBBAeIA5aCQ4ABFoEDiAOBAkgDfAIDQAOCQRgBAk6BBAOSg6QBA7wCAQABBrKAPAJGQ4wHgQJBHAEEAQN8AgOAAkaBBAOBPAICwECEgBgKgkABBoJFAHQ8AEOGgQABPALBCoACQMAcQQOQAQOMARJAfAMAA7wCw4JGgA6AFoEEA4JGgQOAAQaBAAJKvAOIgEQOiQBEAQaAWEqADrwDw4JAFAJWgAJShwAUAQKCfATRQAAJAEgagDqAPACBPAWCQ4QCToEAFoQGgQO8B5HAPAEEAQ6CRAECfAnBAkEDvD-----zw=="
+		},
+		{
+			"type" : "demo",
+			"text" : "function _draw()\n  cls(0)\n  local s=t()/8\n  for i=1,16 do\n    circfill(\n      sin(s+i/16)*32+get_display():width()/2,\n      cos(s+i/16)*32+get_display():height()/2\n    ,4,t()%5+8)\n  end\nend"
+		},
+		{
+			"type" : "label",
+			"text" : "Here are some new elements!"
+		},
+		{
+			"type" : "note",
+			"text" : "This is a test"
+		},
+		{
+			"type" : "warning",
+			"text" : "Watch out!"
 		}
 	]
 }

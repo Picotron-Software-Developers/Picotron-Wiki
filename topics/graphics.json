@@ -16,7 +16,7 @@
 			"type": "wiki_ref",
 			"ref": "graphics/circ",
 			"text": "circ()"
-		}
+		},
 		{
 			"type" : "wiki_ref",
 			"ref" : "graphics/rect",

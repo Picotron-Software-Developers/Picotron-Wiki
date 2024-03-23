@@ -1,0 +1,21 @@
+{
+	"metadata" : {
+		"page_title" : "circ()",
+		"version" : "0.2",
+		"authors" : [ "thacuber2a03" ]
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "The circ function draws an empty circle."
+		},
+		{
+			"type" : "snippet",
+			"text" : "--draws a red circle.\ncirc(16,16,10,8)"
+		},
+		{
+			"type" : "label",
+			"text" : "x\n  X coordinate of circle.\ny\n  Y coordinate of circle.\nr\n  Radius of circle.\ncol\n  The color of the circle."
+		}
+	]
+}

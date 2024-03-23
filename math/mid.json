@@ -1,0 +1,17 @@
+{
+	"metadata" : {
+		"page_title" : "mid()",
+		"version" : "0.2",
+		"authors" : ["thacuber2a03"]
+	},
+	"elements" : [
+		{
+			"type" : "snippet",
+			"text" : "mid(min, val, max)"
+		},
+		{
+			"type" : "label",
+			"text" : "Returns the middle of its arguments."
+		}
+	]
+}

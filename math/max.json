@@ -2,12 +2,12 @@
 	"metadata" : {
 		"page_title" : "max()",
 		"version" : "0.2",
-		"authors" : ["kravohi"]
+		"authors" : ["kravohi", "thacuber2a03"]
 	},
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "Returns the largest number from its given\narguments.  The number of arguments is undifined."
+			"text" : "Returns the largest of its arguments."
 		},
       {
 			"type" : "snippet",

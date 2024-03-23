@@ -23,13 +23,18 @@
 		},
 		{
 			"type" : "wiki_ref",
-			"ref" : "math/min",
+			"ref" : "math/max",
 			"text" : "max()"
 		},
 		{
 			"type" : "wiki_ref",
 			"ref" : "math/min",
 			"text" : "min()"
+		},
+		{
+			"type": "wiki_ref",
+			"ref": "math/mid",
+			"text": "mid()"
 		},
 		{
 			"type" : "wiki_ref",

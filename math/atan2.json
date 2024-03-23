@@ -11,7 +11,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "Returns the arctangent of dy/dx, adjusted to return\n the correct angle based on the sign of both dx and dy."
+			"text" : "Returns the arctangent of dy/dx, adjusted to\n return the correct angle based on the sign of \nboth dx and dy."
 		},
 		{
 			"type" : "label",

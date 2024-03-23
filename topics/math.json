@@ -23,7 +23,7 @@
 		},
 		{
 			"type" : "wiki_ref",
-			"ref" : "math/min",
+			"ref" : "math/max",
 			"text" : "max()"
 		},
 		{

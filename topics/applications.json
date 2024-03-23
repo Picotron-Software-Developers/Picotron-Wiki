@@ -14,7 +14,12 @@
 		{
 			"type" : "wiki_ref",
 			"ref" : "applications/menuitem",
-			"text" : "menuitem()"
+			"text" : "menuitem"
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "applications/window",
+			"text" : "window"
 		}
 	]
 }

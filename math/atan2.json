@@ -1,17 +1,17 @@
 {
 	"metadata" : {
-		"page_title" : "atan()",
+		"page_title" : "atan2()",
 		"version" : "0.2",
-		"authors" : ["kravohi"]
+		"authors" : ["kravohi", "thacuber2a03"]
 	},
 	"elements" : [
-        {
+		{
 			"type" : "snippet",
 			"text" : "atan2(dx, dy)"
 		},
 		{
 			"type" : "label",
-			"text" : "Returns the arctangent of dy/dx."
+			"text" : "Returns the arctangent of dy/dx, adjusted to return\n the correct angle based on the sign of both dx and dy."
 		},
 		{
 			"type" : "label",

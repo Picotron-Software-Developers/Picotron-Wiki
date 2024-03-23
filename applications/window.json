@@ -1,0 +1,23 @@
+{
+	"metadata" : {
+		"page_title" : "window",
+		"version" : "0.1",
+		"authors" : [
+			"Hessery"
+		]
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "The window list is used to alter the window that\ndisplays the program surface."
+		},
+		{
+			"type" : "snippet",
+			"text" : "window {\n  title = \"test\",\n  width = 100,\n  height = 75\n  tabbed = true\n}"
+		},
+		{
+			"type" : "label",
+			"text" : "title\n  The title displayed in the middle of the\n  window bar.\nx\n  The position of the window on the screen on\n  the x axis.\ny\n  The position of the window on the screen on\n  the y axis.\nwidth\n  The width of the program surface.\nheight\n  The height of the program surface.\nicon\n  The icon of the window, displayed on the\n  taskbar when the program is in full screen\n  mode. Requires a userdata gfx code.\ntabbed\n  Should the program have multiple tabbed\n  instances running in parralell. Forces the\n  window into full screen mode."
+		}
+	]
+}

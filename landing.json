@@ -15,6 +15,6 @@
 			"type" : "wiki_ref",
 			"ref" : "help_topics",
 			"text" : "Browse Help Topics"
-		},
+		}
 	]
 }

@@ -1,0 +1,37 @@
+{
+	"metadata" : {
+		"page_title" : "Graphics Workspace",
+		"version" : "0.2",
+		"authors" : [ "BouncyBonBon" ]
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "The Graphics workplace is where you make the sprites for your carts. As with the other workspaces there is a hamburger menu and tabs along the top of your screen."
+		},
+		{
+			"type" : "label",
+			"text" : "On the center of the page is the Sprite Editor, where you draw any sprites for your carts./nOn the bottom-left of the screen shows your pixel co-ordinates, x across and y down. This means 0,0 is the top-left pixel of your sprite, not the bottom left as some may expect"
+		},
+		{
+			"type" : "label",
+			"text" : "On the right-hand side of the screen is the editor, with all the tools you need to make your sprites."
+		}
+		{
+			"type" : "label",
+			"text" : "At the top is the color palette, with two tabs./nThe first tab shows all 64 colors that you have on your palette, however by default there are only 33. The second shows the first 32 colors in your palette./nIn each tab you can click a color to select it."
+		}
+    {
+			"type" : "label",
+			"text" : "Below the palette is the toolbar, with each selectable brush type on it./nPencil: a simple tool that fills one tile with your selected color wherever your cursor is./nPaintbrush: when selected, the brush editor is brought up below it./nLine: draws a straight line from the point you start holding down click to the point where you release./nShapes: draw their respective shape's outline, when holding CTRL they are filled in./nBucket: fill the clicked area with a color./nStamp: pastes what is copied to your clipboard in, making repeating patterns easier./nMarquee: draws a region that limits the area other tools work, click once to remove area. Using the arrow keys moves the selected pixels around./nPan: pans the camera to move around your sprite"
+		}
+    {
+			"type" : "label",
+			"text" : "The paintbrush editor appears below the toolbar while the paintbrush tool is selected, allowing for customization of the tool. On the left is the pattern display, with two rows to its right./nThe top row shows brush size, from one pixel to eight, along with horizontal and diagonal lines./nThe bottom row is the patterns, which will act as a repeating pattern over your brush, cutting sections out of it - this is useful for shading sprites. Whatever is selected here will display as a looping tile on the pattern display."
+		}
+    {
+			"type" : "label",
+			"text" : "Lastly is the sprite panel. This shows an eight by eight grid of all your sprites, with 4 tabs - leading to 256 sprites total./nAbove the sprite panel is the selected sprite, followed by it's index, used in multiple commands such as spr() to identify what sprite you are using./nAfter the index is the sprite size, allowing you to adjust your canvas size, up to 9000x9000 pixels for one sprite. In between the two scales is the lock button, which will freeze the aspect ratio, meaning when you change one axis the other axis will be the same relative size./nLastly there are the 8 sprite flags, from 0 to 7, allowing for you to give different sprites their own flags which you can make have their own meanings, such as 'enemy' or 'floor'."
+		}
+	]
+}

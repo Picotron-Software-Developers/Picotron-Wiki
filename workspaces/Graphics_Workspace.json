@@ -7,11 +7,11 @@
 	"elements" : [
 		{
 			"type" : "label",
-			"text" : "The Graphics workplace is where you make the\nsprites for your carts. As with the other\nworkspaces there is a hamburger menu and tabs along the top of your screen."
+			"text" : "The Graphics workplace is where you make the\nsprites for your carts. As with the other\nworkspaces there is a hamburger menu and tabs\nalong the top of your screen."
 		},
 		{
 			"type" : "label",
-			"text" : "On the center of the page is the Sprite Editor, \nwhere you draw any sprites for your carts.\nOn the bottom-left of the screen shows your pixel\nco-ordinates, x across and y down. This means\n0,0 is the top-left pixel of your sprite, not the bottom left as some may expect"
+			"text" : "On the center of the page is the Sprite Editor, \nwhere you draw any sprites for your carts.\nOn the bottom-left of the screen shows your pixel\nco-ordinates, x across and y down. This means\n0,0 is the top-left pixel of your sprite, not the\nbottom left as some may expect"
 		},
 		{
 			"type" : "label",
@@ -23,15 +23,15 @@
 		},
 		{
 			"type" : "label",
-			"text" : "At the top is the color palette, with two tabs.\nThe first tab shows all 64 colors that you have \non your palette, however by default there are \nonly 33. The second shows the first 32 colors in your palette.\nIn each tab you can click a color to select it."
+			"text" : "At the top is the color palette, with two tabs.\nThe first tab shows all 64 colors that you have \non your palette, however by default there are \nonly 33. The second shows the first 32 colors in\nyour palette.\nIn each tab you can click a color to select it."
 		},
 		{
 			"type" : "label",
-			"text" : "Below the palette is the toolbar, with each \nselectable brush type on it.\n\nPencil: a simple tool that fills one tile with\nyour selected color wherever your cursor is.\nPaintbrush: when selected, the brush editor is\nbrought up below it.\nLine: draws a straight line from the point you\nstart holding down click to the point you release.\nShapes: draw their respective shape's outline,\nwhen holding CTRL they are filled in.\nBucket: fill the clicked area with a color.\nStamp: pastes what is copied to your clipboard in,\nmaking repeating patterns easier.\nMarquee: draws a region that limits the area\nother tools work, click once to remove area. Using the arrow keys moves the selected pixels around.\nPan: pans the camera to move around your sprite"
+			"text" : "Below the palette is the toolbar, with each \nselectable brush type on it.\n\nPencil: a simple tool that fills one tile with\nyour selected color wherever your cursor is.\nPaintbrush: when selected, the brush editor is\nbrought up below it.\nLine: draws a straight line from the point you\nstart holding down click to the point you release.\nShapes: draw their respective shape's outline,\nwhen holding CTRL they are filled in.\nBucket: fill the clicked area with a color.\nStamp: pastes what is copied to your clipboard in,\nmaking repeating patterns easier.\nMarquee: draws a region that limits the area\nother tools work, click once to remove area.\nUsing the arrow keys moves the selected pixels around.\nPan: pans the camera to move around your sprite"
 		},
 		{
 			"type" : "label",
-			"text" : "The paintbrush editor appears below the toolbar\nwhile the paintbrush tool is selected, allowing\nfor customization of the tool. On the left is the pattern display, with two rows to its right.\nThe top row shows brush size, from one pixel to\neight, along with horizontal and diagonal lines.\nThe bottom row is the patterns, which will act as a repeating pattern over your brush, cutting sections out of it - this is useful for shading sprites. Whatever is selected here will display as a looping tile on the pattern display."
+			"text" : "The paintbrush editor appears below the toolbar\nwhile the paintbrush tool is selected, allowing\nfor customization of the tool. On the left is\nthe pattern display, with two rows to its right.\nThe top row shows brush size, from one pixel to\neight, along with horizontal and diagonal lines.\nThe bottom row is the patterns, which will act as\na repeating mask over your brush, cutting sections out of it - this is useful for shading sprites. Whatever is selected here will display as a looping tile on the pattern display."
 		},
 		{
 			"type" : "pod_image",
@@ -39,7 +39,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "Lastly is the sprite panel. This shows an 8x8\ngrid of all your sprites, with 4 tabs - leading to 256\nsprites total.\nAbove the sprite panel is the middle 16x16\nof the selected sprite, followed by it's index,\nused in multiple commands such as spr() to identify what sprite you are using.\nAfter the index is the sprite size, allowing you\nto adjust your canvas size, up to 9000x9000\npixels for one sprite. In between the two scales is the lock button, which will freeze the aspect ratio, meaning when you change one axis the other axis will be the same relative size.\nLastly, there are the 8 sprite flags, from 0 to\n7, allowing for you to give different sprites their own flags which you can make have their own meanings, such as 'enemy' or 'floor'."
+			"text" : "Lastly is the sprite panel. This shows an 8x8\ngrid of all your sprites, with 4 tabs - meaning\n256 sprites total.\nAbove the sprite panel is the middle 16x16\nof the selected sprite, followed by it's index,\nused in multiple commands such as spr() to\nidentify what sprite you are using.\nAfter the index is the sprite size, allowing you\nto adjust your canvas size, up to 9000x9000\npixels for one sprite. In between the two scales\nis the lock button, which will freeze the aspect ratio, meaning when you change one axis the other axis will be the same relative size.\nLastly, there are the 8 sprite flags, from 0 to\n7, allowing for you to give different sprites their own flags which you can make have\ntheir own meanings, such as 'enemy' or 'floor'."
 		},
 		{
 			"type":"pod_image",

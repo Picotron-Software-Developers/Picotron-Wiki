@@ -27,7 +27,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "Below the palette is the toolbar, with each \nselectable brush type on it.\n\nPencil: a simple tool that fills one tile with\nyour selected color wherever your cursor is.\nPaintbrush: when selected, the brush editor is\nbrought up below it.\nLine: draws a straight line from the point you\nstart holding down click to the point you release.\nShapes: draw their respective shape's outline,\nwhen holding CTRL they are filled in.\nBucket: fill the clicked area with a color.\nStamp: pastes what is copied to your clipboard in,\nmaking repeating patterns easier.\nMarquee: draws a region that limits the area\nother tools work, click once to remove area.\nUsing the arrow keys moves the selected pixels\naround.\nPan: pans the camera to move around your sprite"
+			"text" : "Below the palette is the toolbar, with each \nselectable brush type on it.\n\nPencil: a simple tool that fills one tile with\nyour selected color wherever your cursor is.\nPaintbrush: when selected, the brush editor is\nbrought up below it.\nLine: draws a straight line from the point you\nstart holding down click to the point you release.\nShapes: draw their respective shape's outline,\nwhen holding CTRL they are filled in.\nBucket: fill the clicked area with a color.\nStamp: pastes what is copied to your clipboard in,\nmaking repeating patterns easier.\nMarquee: draws a region that limits the area\nother tools work, click once to remove area.\nUsing the arrow keys moves the selected pixels\naround, so you can adjust them.\nPan: pans the camera to move around your sprite"
 		},
 		{
 			"type" : "label",

@@ -20,7 +20,7 @@
 		{
 			"type" : "label",
 			"text" : "At the top is the color palette, with two tabs./nThe first tab shows all 64 colors that you have on your palette, however by default there are only 33. The second shows the first 32 colors in your palette./nIn each tab you can click a color to select it."
-		}
+		},
     		{
 			"type" : "label",
 			"text" : "Below the palette is the toolbar, with each selectable brush type on it./nPencil: a simple tool that fills one tile with your selected color wherever your cursor is./nPaintbrush: when selected, the brush editor is brought up below it./nLine: draws a straight line from the point you start holding down click to the point where you release./nShapes: draw their respective shape's outline, when holding CTRL they are filled in./nBucket: fill the clicked area with a color./nStamp: pastes what is copied to your clipboard in, making repeating patterns easier./nMarquee: draws a region that limits the area other tools work, click once to remove area. Using the arrow keys moves the selected pixels around./nPan: pans the camera to move around your sprite"

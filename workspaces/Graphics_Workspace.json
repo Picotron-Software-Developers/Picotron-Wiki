@@ -39,7 +39,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "Lastly is the sprite panel. This shows an 8x8\ngrid of all your sprites, with 4 tabs - meaning\n256 sprites total.\nAbove the sprite panel is the middle 16x16\nof the selected sprite, followed by it's index,\nused in multiple commands such as spr() to\nidentify what sprite you are using.\nAfter the index is the sprite size, allowing you\nto adjust your canvas size, up to 9000x9000\npixels for one sprite. In between the two scales\nis the lock button, which will freeze the aspect ratio, meaning when you change one axis the other axis will be the same relative size.\nLastly, there are the 8 sprite flags, from 0 to\n7, allowing for you to give different sprites \nflags which you can make have their own meanings,\nsuch as 'enemy' or 'floor'."
+			"text" : "Lastly is the sprite panel. This shows an 8x8\ngrid of all your sprites, with 4 tabs - meaning\n256 sprites total.\nAbove the sprite panel is the middle 16x16\nof the selected sprite, followed by it's index,\nused in multiple commands such as spr() to\nidentify what sprite you are using.\nAfter the index is the sprite size, allowing you\nto adjust your canvas size, up to 9000x9000\npixels for one sprite. In between the two scales\nis the lock button, which will freeze the aspect\nratio, meaning when you change one axis the other axis will be the same relative size.\nLastly, there are the 8 sprite flags, from 0 to\n7, allowing for you to give different sprites\nflags which you can make have their own meanings,\nsuch as 'enemy' or 'floor'."
 		},
 		{
 			"type":"pod_image",

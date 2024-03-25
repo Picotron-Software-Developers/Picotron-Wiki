@@ -18,6 +18,10 @@
 			"text" : "On the right-hand side of the screen is the graphics menu, with all the tools you need to make your sprites."
 		},
 		{
+			"type": "pod_image",
+			"data": "b64:bHo0AHgAAACGAAAA8CpweHUAQyAQIAT1E5BVEA8UBA8fDw8IDxgCAFUADxUFDxYGBw8XDw4PHgBVAAEPEA8RDA8cDx0NDxIgAPAIEwMPGwsPGgoJDxkAVZD1BQcFDQUNFQ0GAPAB9UQQBRANEAUhNRD1AwcFBgIALzWwAgAAULA1sPUS"
+		},
+		{
 			"type" : "label",
 			"text" : "At the top is the color palette, with two tabs.\nThe first tab shows all 64 colors that you have on your palette, however by default there are only 33. The second shows the first 32 colors in your palette.\nIn each tab you can click a color to select it."
 		},
@@ -30,8 +34,20 @@
 			"text" : "The paintbrush editor appears below the toolbar while the paintbrush tool is selected, allowing for customization of the tool. On the left is the pattern display, with two rows to its right.\nThe top row shows brush size, from one pixel to eight, along with horizontal and diagonal lines./nThe bottom row is the patterns, which will act as a repeating pattern over your brush, cutting sections out of it - this is useful for shading sprites. Whatever is selected here will display as a looping tile on the pattern display."
 		},
 		{
+			"type" : "pod_image",
+			"data" : "b64:bHo0AKcAAACyAAAA8EBweHUAQyAaEAT1CyAvFCQvHy8PKC8YIhUvFSUvFiYnLxcvDi8eFSEvEC8RLC8cLx0tLxIVLxMjLxsrLxoqKS8Z9Q0NFQcVDQUdFR0VDQUNBgAAEABRFR0VHQUCAPAE9SYABwAHAAUABxA9FQ0ALRANFRAAwQcFMA0AHRUNQA0AFSEAIvUFFwBALQAHABQAUh0ADRANGwDgBT0ABxAVDRANAB0A9Qs="
+		},
+		{
 			"type" : "label",
-			"text" : "Lastly is the sprite panel. This shows an eight by eight grid of all your sprites, with 4 tabs - leading to 256 sprites total.\nAbove the sprite panel is the selected sprite, followed by it's index, used in multiple commands such as spr() to identify what sprite you are using.\nAfter the index is the sprite size, allowing you to adjust your canvas size, up to 9000x9000 pixels for one sprite. In between the two scales is the lock button, which will freeze the aspect ratio, meaning when you change one axis the other axis will be the same relative size.\nLastly, there are the 8 sprite flags, from 0 to 7, allowing for you to give different sprites their own flags which you can make have their own meanings, such as 'enemy' or 'floor'."
+			"text" : "Lastly is the sprite panel. This shows an eight by eight grid of all your sprites, with 4 tabs - leading to 256 sprites total.\nAbove the sprite panel is the middle 16x16 of the selected sprite, followed by it's index, used in multiple commands such as spr() to identify what sprite you are using.\nAfter the index is the sprite size, allowing you to adjust your canvas size, up to 9000x9000 pixels for one sprite. In between the two scales is the lock button, which will freeze the aspect ratio, meaning when you change one axis the other axis will be the same relative size.\nLastly, there are the 8 sprite flags, from 0 to 7, allowing for you to give different sprites their own flags which you can make have their own meanings, such as 'enemy' or 'floor'."
+		},
+		{
+			"type":"pod_image",
+			"data":"b64:bHo0ANoAAADVAQAA8QBweHUAQyBASwT1coAFABcCAIMVIAYABgAVDQgAKQAFAgB4VRAPDyAOEC0AYRYFDQUNBQkAKwABAgA7RRBOLAARLSoADlcA8AQMLgwQ9ScQThD1JyAoIPUCN-URCADyIgEHLRf1ECABAAEg9QAXDQcNFzU2RTZFNlWA5SctFyUGHSYlFh0WJQYtFvUNdxUmDSYEAKQdFjWg1XcFJi0WBADiNQCH8CMlAAcADiAOAAcLABROCQA8DC4MFAA8ECgQCQAyAQABCwAASgBf8C018CwDAH1QNfAs9XI="
+		},
+		{
+			"type" : "label",
+			"text" : "General controls:\nThe arrow keys scroll your sprite, wrapping it around edges\nPress 'f' to flip your sprite horizontally\nPress 'v' to flip your sprite vertically"
 		}
 	]
 }

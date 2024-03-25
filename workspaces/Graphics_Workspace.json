@@ -1,7 +1,7 @@
 {
 	"metadata" : {
 		"page_title" : "Graphics Workspace",
-		"version" : "0.2",
+		"version" : "1.0",
 		"authors" : [ "BouncyBonBon" ]
 	},
 	"elements" : [
@@ -31,7 +31,7 @@
 		},
 		{
 			"type" : "label",
-			"text" : "The paintbrush editor appears below the toolbar\nwhile the paintbrush tool is selected, allowing\nfor customization of the tool. On the left is\nthe pattern display, with two rows to its right.\nThe top row shows brush size, from one pixel to\neight, along with horizontal and diagonal lines.\nThe bottom row is the patterns, which will act as\na repeating mask over your brush, cutting\nsections out of it - this is useful for shading\nsprites.\nWhatever is selected here will display as a looping tile on the pattern display."
+			"text" : "The paintbrush editor appears below the toolbar\nwhile the paintbrush tool is selected, allowing\nfor customization of the tool. On the left is\nthe pattern display, with two rows to its right.\nThe top row shows brush size, from one pixel to\neight, along with horizontal and diagonal lines.\nThe bottom row is the patterns, which will act as\na repeating mask over your brush, cutting\nsections out of it - this is useful for shading\nsprites.\nWhatever is selected here will display as a\nlooping tile on the pattern display."
 		},
 		{
 			"type" : "pod_image",

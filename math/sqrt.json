@@ -1,2 +1,1 @@
---[[pod_format="raw",created="2024-03-26 15:03:41",modified="2024-03-26 15:09:06",revision=5]]
 {"elements":[{"type":"snippet","text":"sqrt(\n  x -- any positive number\n)"},{"type":"label","text":"Returns the square root of any positive\nnumber."},{"type":"warning","text":"If 'x' is negative, this function\nwill return the value 'nan'!"},{"type":"label","text":"Here is a mathmatical equivalency.\nz = sqrt(z * z)"}],"metadata":{"authors":["kravohi"],"version":"0.4","page_title":"sqrt()"}}

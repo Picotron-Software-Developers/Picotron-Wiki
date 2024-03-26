@@ -13,11 +13,6 @@
 		},
 		{
 			"type" : "wiki_ref",
-			"ref" : "topics/getting_started",
-			"text" : "Getting started"
-		},
-		{
-			"type" : "wiki_ref",
 			"ref" : "topics/graphics",
 			"text" : "Graphics"
 		},

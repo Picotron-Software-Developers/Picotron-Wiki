@@ -1,0 +1,2 @@
+--[[pod_format="raw",created="2024-03-26 15:37:42",modified="2024-03-26 15:48:24",revision=4]]
+{"elements":[{"type":"label","text":"Here are our current documents:"},{"text":"Trigonometry in Picotron","ref":"guides/trigonometry","type":"wiki_ref"}],"metadata":{"authors":["kravohi"],"page_title":"Guides","version":"0.4"}}

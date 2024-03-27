@@ -1,2 +1,1 @@
---[[pod_format="raw",created="2024-03-26 17:01:47",modified="2024-03-26 17:01:47",revision=0]]
 {"elements":[{"text":"Here are our current help topics:","type":"label"},{"text":"Guides","ref":"topics/guides","type":"wiki_ref"},{"text":"API:","type":"label"},{"text":"Graphics","ref":"topics/graphics","type":"wiki_ref"},{"text":"Math","ref":"topics/math","type":"wiki_ref"},{"text":"Applications","ref":"topics/applications","type":"wiki_ref"}],"metadata":{"version":"0.2","page_title":"Help topics","authors":["scrapSavage"]}}

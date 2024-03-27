@@ -15,11 +15,11 @@
 		},
 		{
 			"type" : "label",
-			"text" : "mx\nNumber of tiles from the left.\nmy\nNumber of tiles from the top.\nsx\nNumber of pixels to the right of the mx.\nw\nThe width of the displayed area.\nw\nThe height of the displayed area.\nlayer\nWhat map file is being displayed (MAY BE INCORRECT).\nLeaving parameters blank will use the defaults:\n0,0,0,0,16,16,0"
+			"text" : "mx\n  Number of tiles from the left.\nmy\n  Number of tiles from the top.\nsx\n  Number of pixels to the right of the mx.\nw\n  The width of the displayed area.\nw\n  The height of the displayed area.\nlayer\n  What map file is being displayed (MAY BE INCORRECT).\nLeaving parameters blank will use the defaults:\n0,0,0,0,16,16,0"
 		},
-    {
-      "type" : "label",
-			"text" : " NOTE: As of 0.1.0d, the map() function does not work"
-    }
+   		{
+    		"type" : "label",
+		"text" : "NOTE: As of 0.1.0d, the map() function does not work.\nDue to this, this page may not be fully accurate."
+  		}
 	]
 }

@@ -1,2 +1,1 @@
---[[pod_format="raw",created="2024-03-28 20:24:11",modified="2024-03-28 20:24:11",revision=0]]
 {"elements":[{"text":"Takes two arguments and returns the smallest.","type":"label"},{"text":"min(3,13) --> 3\nmin(24,5) --> 5","type":"snippet"}],"metadata":{"authors":["kravohi","thacuber2a03"],"version":"0.2","page_title":"min()"}}

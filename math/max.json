@@ -1,2 +1,1 @@
---[[pod_format="raw",created="2024-03-28 20:22:45",modified="2024-03-28 20:22:45",revision=0]]
 {"elements":[{"type":"label","text":"Takes two arguments and returns the largest."},{"type":"snippet","text":"max(3,13) --> 13\nmax(24,5) --> 24"}],"metadata":{"page_title":"max()","version":"0.2","authors":["kravohi","thacuber2a03"]}}

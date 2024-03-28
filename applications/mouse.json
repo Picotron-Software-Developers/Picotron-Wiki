@@ -1,0 +1,2 @@
+--[[pod_format="raw",created="2024-03-28 14:52:58",modified="2024-03-28 14:52:58",revision=0]]
+{"metadata":{"version":"0.4","page_title":"mouse()","authors":["BouncyBonBon"]},"elements":[{"text":"The mouse function stores the cursor position and data.","type":"label"},{"text":"--creates 5 variables to store mouse data\nmx, my, mb, mhs, mvs = mouse()","type":"snippet"},{"text":"x\n  X coordinate of the cursor.\ny\n  Y coordinate of the cursor.\nb\n  Bitfield of the inputs.\nhs\n  Horizontal scoll. (Not supported by most mice)\nvs\n  Vertical scroll.","type":"label"}]}

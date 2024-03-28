@@ -1,17 +1,1 @@
-{
-	"metadata" : {
-		"page_title" : "mid()",
-		"version" : "0.2",
-		"authors" : ["thacuber2a03"]
-	},
-	"elements" : [
-		{
-			"type" : "snippet",
-			"text" : "mid(min, val, max)"
-		},
-		{
-			"type" : "label",
-			"text" : "Returns the middle of its arguments."
-		}
-	]
-}
+{"elements":[{"text":"Takes 3 arguments, and returns the argument that\nis numerically contained within the other two.","type":"label"},{"text":"mid(2, 5, 8) --> 5\nmid(8, 2, 5) --> still 5\nmid(2, 1, 9) --> 2","type":"snippet"}],"metadata":{"page_title":"mid()","authors":["thacuber2a03"],"version":"0.4"}}

@@ -1,0 +1,2 @@
+--[[pod_format="raw",created="2024-04-03 04:28:16",modified="2024-04-03 04:28:16",revision=0]]
+{"elements":[{"type":"label","text":"Here are our current documents:"},{"text":"mouse()","ref":"input/mouse","type":"wiki_ref"}],"metadata":{"authors":["kravohi"],"page_title":"Input","version":"0.4"}}

@@ -1,0 +1,25 @@
+{
+	"metadata" : {
+		"page_title" : "mget()",
+		"version" : "0.4",
+		"authors" : [ "BouncyBonBon" ]
+	},
+	"elements" : [
+		{
+			"type" : "label",
+			"text" : "The mget function returns the sprite at a x and y coordinate."
+		},
+		{
+			"type" : "snippet",
+			"text" : "--gets the sprite at tile 16,16.\nmget(16,16)"
+		},
+		{
+			"type" : "label",
+			"text" : "x\n  Number of tiles from the left(Rounds down).\ny\n  Number of tiles from the top(Rounds down)."
+		},
+		{
+    		"type" : "label",
+		"text" : "NOTE: As of 0.1.0d, the mget() function does not work.\nDue to this, this page may not be fully accurate."
+  		}
+	]
+}

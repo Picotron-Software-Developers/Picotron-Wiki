@@ -1,0 +1,2 @@
+--[[pod_format="raw",created="2024-08-14 07:08:54",modified="2024-08-14 07:16:29",revision=5]]
+{"elements":[{"text":"Sends a message to the terminal and then stops \nthe program, and then yields to the terminal.","type":"label"},{"text":"stop(\"Stop message\")","type":"snippet"}],"metadata":{"page_title":"stop","version":"0.4","authors":["Hessery"]}}

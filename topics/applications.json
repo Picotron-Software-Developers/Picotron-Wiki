@@ -20,6 +20,10 @@
 			"type" : "wiki_ref",
 			"ref" : "applications/window",
 			"text" : "window"
-		}
+		},
+		{
+			"type" : "wiki_ref",
+			"ref" : "applications/stop",
+			"text" : "stop"
 	]
 }
